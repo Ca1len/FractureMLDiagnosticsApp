@@ -1,0 +1,3 @@
+[submodule "third-party/pytorch-cpp"]
+	path = third-party/pytorch-cpp
+	url = https://github.com/prabhuomkar/pytorch-cpp.git
