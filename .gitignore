@@ -35,3 +35,4 @@ build/
 .vscode/
 venv/
 models-train/data/*
+models-train/*/
